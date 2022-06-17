@@ -1,2 +1,7 @@
 Link para download do Git://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+chave SSH é uma forma de estabelecer uma conexão segura e incriptada entre duas maquinas.
+rmdir - deleta o diretorio com tudo.
+git push origin main - envia arquivos para o git hub
+mv - comando para mover
+git add . - adiciona todos os arquivos 
